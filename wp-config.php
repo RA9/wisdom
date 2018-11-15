@@ -57,14 +57,15 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         $_ENV["AUTH_KEY"]);
-define('SECURE_AUTH_KEY',  $_ENV["SECURE_AUTH_KEY"]);
-define('LOGGED_IN_KEY',    $_ENV["LOGGED_IN_KEY"]);
-define('NONCE_KEY',        $_ENV["NONCE_KEY"]);
-define('AUTH_SALT',        $_ENV["AUTH_SALT"]);
-define('SECURE_AUTH_SALT', $_ENV["SECURE_AUTH_SALT"]);
-define('LOGGED_IN_SALT',   $_ENV["LOGGED_IN_SALT"]);
-define('NONCE_SALT',       $_ENV["NONCE_SALT"]);
+define('AUTH_KEY',         $_ENV["=<Z}xLe`,&KUTvnP%ur4]TjKrwU}4C2nd_|9;{Xy%b<#]fy%BeKrUO)XMe/*GZ&s"]);
+define('SECURE_AUTH_KEY',  $_ENV["FPiC%1jd=yu5wJ`S)Z^JLesqci(v)1Oye->0w4/o1#b}t+`*FlY<raI3O$O5s{Xj"]);
+define('LOGGED_IN_KEY',    $_ENV["sTN%TgPGlS_,Z|iG`aE!0Td8<PTU$y,?[!L{XDtU8cyg6GW/S|*?eHOf5)7#fb69"]);
+define('NONCE_KEY',        $_ENV["-c<2Vs=-reiRrYn.%4?q9/;ZD]uEMYET|@Do8Tg)XobUaqK?z6&b2-DNHJH#.8O:"]);
+define('AUTH_SALT',        $_ENV[":%&!Q|x/QU*wwG=|(:ad:P531/G3zqVOzM#H>`TFGe%n?@CLUCd+$%7z[];VF/=J"]);
+define('SECURE_AUTH_SALT', $_ENV["{@6*qpXsMOa+}Z?Ns+m%^`2)@KmQ<$b9zq},opm&^6&{&m4yzu(v-0zD,f7lqHr}"]);
+define('LOGGED_IN_SALT',   $_ENV["R+(?_jw=l*in|[Io{B;wwVeCB27o*bDNbq*w@KkYbTMWQFzE=BOB#<8K=dN:>h/x"]);
+define('NONCE_SALT',       $_ENV["$n+[ay?5C)FtyD@|4gxq||tx,l,q)}/BRS4JJ_]Cqb1-^j@`{?D!*-ooH89ag@sz"]);
+		
 
 /**#@-*/
 
